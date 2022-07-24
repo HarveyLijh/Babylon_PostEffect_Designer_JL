@@ -11,7 +11,7 @@ You may also download post effect data as JSON and share them with your friends.
 
 https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/
 ![screenshot](https://raw.githubusercontent.com/HarveyLijh/Babylon_PostEffect_Designer_JL/74bae1f990c117ebd1cae93a462ca2caf06ffb4e/Capture.PNG)
-![screenshot](https://raw.githubusercontent.com/HarveyLijh/Babylon_PostEffect_Designer_JL/74bae1f990c117ebd1cae93a462ca2caf06ffb4e/Capture2.PNG)
+![screenshot](https://raw.githubusercontent.com/HarveyLijh/Babylon_PostEffect_Designer_JL/main/Capture2.PNG)
 
 ## Features
 
