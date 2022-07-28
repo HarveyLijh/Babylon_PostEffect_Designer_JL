@@ -6,7 +6,7 @@ You may adjust each field using check box, sliders, and directly inputs.
 Check real-time rendering to find the combination best suits your needs.
 You may also download post effect data as JSON and share them with your friends.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to HarveyLijh. Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [HarveyLijh](https://github.com/HarveyLijh). Thanks!
 
 ## Live Demo
 
