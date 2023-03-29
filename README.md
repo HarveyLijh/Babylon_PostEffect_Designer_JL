@@ -33,5 +33,14 @@ https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/
 - Full control of Grain(intensity, animated)
 
 
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @HarveyLijh/Babylon_PostEffect_Designer_JL](https://reporoster.com/stars/HarveyLijh/Babylon_PostEffect_Designer_JL)](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL/stargazers)
+
+
+
+### &#8627; Forkers
+[![Forkers repo roster for HarveyLijh/Babylon_PostEffect_Designer_JL](https://reporoster.com/forks/HarveyLijh/Babylon_PostEffect_Designer_JL)](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL/network/members)
+
 ## Reference
 Demo models: https://maxparata.itch.io/voxel-spaceships
